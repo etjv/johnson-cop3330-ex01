@@ -1,4 +1,9 @@
 /*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 Edmund Johnson V
+ */
+
+/*
 Create a program that prompts for your name and prints a greeting using your name.
 
 Example Output
